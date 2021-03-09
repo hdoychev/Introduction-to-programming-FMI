@@ -1,0 +1,5 @@
+﻿  Source.cpp
+D:\C++\Увод в програмирането\Домашно 2\fn62375_d2_3_VC.cpp\fn62375_d2_3_VC.cpp\Source.cpp(22,20): warning C4018: '<': signed/unsigned mismatch
+D:\C++\Увод в програмирането\Домашно 2\fn62375_d2_3_VC.cpp\fn62375_d2_3_VC.cpp\Source.cpp(29,25): warning C4018: '<': signed/unsigned mismatch
+D:\C++\Увод в програмирането\Домашно 2\fn62375_d2_3_VC.cpp\fn62375_d2_3_VC.cpp\Source.cpp(60,21): warning C4018: '<': signed/unsigned mismatch
+  fn62375_d2_3_VC.cpp.vcxproj -> D:\C++\Увод в програмирането\Домашно 2\fn62375_d2_3_VC.cpp\Debug\fn62375_d2_3_VC.cpp.exe
